@@ -10,7 +10,8 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 1.2'
 gem 'haml' 
 gem 'bootstrap-sass', '~> 2.3.2.0' 
-gem 'simple_form' 
+gem 'simple_form'
+gem 'bootstrap-datepicker-rails' 
 
 group :doc do
   gem 'sdoc', require: false
